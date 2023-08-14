@@ -32,3 +32,4 @@ Citizen.CreateThread(function()
 		Citizen.Wait(60000)
 	end
 end)
+-- powered by djamiex -- https://github.com/djamiex/
