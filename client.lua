@@ -1,21 +1,21 @@
 Citizen.CreateThread(function()
 	while true do
         -- This is the Application ID (Replace this with you own)
-		SetDiscordAppId(1135911982445371403)
+		SetDiscordAppId(1234567891011121314)
 
         -- Here you will have to put the image name for the "large" icon.
-		    SetDiscordRichPresenceAsset('bhrp')
+		    SetDiscordRichPresenceAsset('name')
         
         -- (11-11-2018) New Natives:
 
         -- Here you can add hover text for the "large" icon.
-        SetDiscordRichPresenceAssetText('Silverstate Fun Rp')
+        SetDiscordRichPresenceAssetText('Full Name')
        
         -- Here you will have to put the image name for the "small" icon.
-        SetDiscordRichPresenceAssetSmall('bhrp')
+        SetDiscordRichPresenceAssetSmall('name')
 
         -- Here you can add hover text for the "small" icon.
-        SetDiscordRichPresenceAssetSmallText('Silverstate Fun Rp')
+        SetDiscordRichPresenceAssetSmallText('Full Name')
 
 
         -- (26-02-2021) New Native:
